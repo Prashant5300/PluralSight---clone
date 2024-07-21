@@ -2,7 +2,6 @@
 
 In this project, we have used JavaScript, HTML, and CSS. Our project is to clone the PluralSight website, an American privately held online education company that offers a variety of video training courses for software developers, IT administrators, and creative professionals through its website.
 
-The Project was so challenging because we have to complete it within 6 days. But because of hard work and excellent teamwork, the work was completed in 5 days. We tried our level best to make our work similar to the original website. This project helps to make my concepts clear and to get a better understanding of group work.
 
 ##  PROJECT DETAILS
 
@@ -104,11 +103,7 @@ How to work and communicate with a team.
 How to be more efficient and productive at the same time.
 Here I get to know how the team works, how to keep cool even under pressure conditions, how to keep myself and my teammates motivated throughout the ups and downs.
 
-Source Code:- https://github.com/Micheal-George/PluralSight.Site
-(Our GitHub Link)
 
-Source Code:- https://dulcet-brigadeiros-75a972.netlify.app/
-(Our Netlify Link)
 
 ### Roles & Responsibilities :-
 * The Landing Page are designed & functioned by OM PRAKASH GUPTA.
